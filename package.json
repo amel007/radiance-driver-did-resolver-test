@@ -1,0 +1,22 @@
+{
+  "name": "radiance-everscale-did-driver",
+  "version": "0.1.0",
+  "description": "radiance everscale DID Driver.",
+  "author": {
+    "name": "Roman",
+    "e-mail": "roma.amel@yandex.ru"
+  },
+  "license": "Apache-2.0",
+  "keywords": [],
+  "main": "src/driver.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node src/driver.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "did-resolver": "^2.1.2",
+    "express": "^4.17.1",
+    "sdk-did-radiance-test": "^0.1.1"
+  }
+}

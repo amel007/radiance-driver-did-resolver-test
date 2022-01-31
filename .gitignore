@@ -1,0 +1,15 @@
+node_modules/
+bower_components/
+dist/
+output/
+package-lock.json
+.project
+.classpath
+/.settings/
+/target/
+/bin/
+docker-compose.override.yml
+/.idea/
+*.iml
+*.lock
+*.log
