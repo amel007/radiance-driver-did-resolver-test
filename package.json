@@ -1,7 +1,7 @@
 {
-  "name": "radiance-everscale-did-driver",
+  "name": "everscale-did-resolver-driver-radiance-test",
   "version": "0.1.0",
-  "description": "radiance everscale DID Driver.",
+  "description": "Radiance Everscale DID Resolver Driver.",
   "author": {
     "name": "Roman",
     "e-mail": "roma.amel@yandex.ru"
@@ -17,6 +17,6 @@
   "dependencies": {
     "did-resolver": "^2.1.2",
     "express": "^4.17.1",
-    "sdk-did-radiance-test": "^0.1.1"
+    "everscale-did-sdk-radiance-test": "^0.1.0"
   }
 }
